@@ -14,6 +14,7 @@ const { createApp } = Vue
       return {
         message: 'Hello Vue!',
         messagioTitolo : 'Ciao Vue js!',
+        immagine : './assets/img/angela-caroll-chief-editor.jpg'
       }
     }
   }).mount('#app')
